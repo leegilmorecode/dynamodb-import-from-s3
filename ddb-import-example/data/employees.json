@@ -1,0 +1,2 @@
+{"Item":{"PK":{"S":"COMPANY#1"},"SK":{"S":"EMPLOYEE#1"},"Name":{"S":"Employee One"},"Type":{"S":"Employee"}}}
+{"Item":{"PK":{"S":"COMPANY#2"},"SK":{"S":"EMPLOYEE#2"},"Name":{"S":"Employee Two"},"Type":{"S":"Employee"}}}

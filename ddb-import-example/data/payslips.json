@@ -1,0 +1,3 @@
+{"Item":{"PK":{"S":"COMPANY#1"},"SK":{"S":"EMPLOYEE#1#PAYSLIP#1"},"Date":{"S":"2024-05-01"},"Amount":{"N":"1000"},"Type":{"S":"Payslip"}}}
+{"Item":{"PK":{"S":"COMPANY#1"},"SK":{"S":"EMPLOYEE#1#PAYSLIP#2"},"Date":{"S":"2024-06-01"},"Amount":{"N":"1100"},"Type":{"S":"Payslip"}}}
+{"Item":{"PK":{"S":"COMPANY#2"},"SK":{"S":"EMPLOYEE#2#PAYSLIP#1"},"Date":{"S":"2024-05-01"},"Amount":{"N":"1200"},"Type":{"S":"Payslip"}}}
